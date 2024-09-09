@@ -1,4 +1,7 @@
 #### ****Pharmacophore Modeling: A Key to Unlocking Novel Cancer Therapies****
+Name: Oshim Amoge Vivian
+Slack ID : @Amoge
+
 
 Pharmacophore modeling is a crucial concept in drug discovery, particularly in the development of cancer therapeutics. It involves the identification of specific molecular features, or pharmacophores, that are responsible for the biological activity of a drug(Giordano _et al_ 2022). These pharmacophores are three-dimensional arrangements of functional groups that interact with target proteins, such as enzymes or receptors, to produce a desired therapeutic effect.
 
